@@ -1,8 +1,8 @@
 {
   "Nickname": "RoleRimLootOverhaul",
   "Visibility": "Visible",
-  "OneLineDescription": "",
-  "LongDescription": "",
+  "OneLineDescription": "Distributes mod-added items into the RoleRim Loot Overhaul Leveled Lists.",
+  "LongDescription": "Automatically distributes mod-added items intended for leveled distribution into the RoleRim Loot Overhaul Leveled Lists utilizing the mod's loot philosophy of rarity and abundance.",
   "PreferredAutoVersioning": "Default",
   "RequiredMods": [],
   "TargetedReleases": [
